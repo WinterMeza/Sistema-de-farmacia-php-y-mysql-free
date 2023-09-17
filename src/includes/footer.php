@@ -7,7 +7,7 @@
             <script>
                 document.write(new Date().getFullYear())
             </script>
-            <a href="#" target="_blank">Sistemas Gratis</a>.
+            <a href="#" target="_blank">Winter Meza- 9noA - TECNOLOGIAS DE LA INFORMACIÓN EMERGENTES | FACCI contacto: wintermj@gmail.con |</a>.
         </div>
     </div>
 </footer>

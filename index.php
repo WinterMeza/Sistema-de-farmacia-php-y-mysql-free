@@ -89,6 +89,17 @@ if (!empty($_SESSION['active'])) {
     <!-- plugins:js -->
     <script src="assets/js/material-dashboard.js"></script>
     <!-- endinject -->
+    <footer class="bg-primary text-white text-center text-lg-start fixed-bottom">
+  <!-- Grid container -->
+
+  <!-- Grid container -->
+
+  <!-- Copyright -->
+  <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2)">
+  Winter Meza- 9noA - TECNOLOGIAS DE LA INFORMACIÓN EMERGENTES | FACCI contacto: wintermj@gmail.con |
+  </div>
+  <!-- Copyright -->
+</footer>
 </body>
 
 </html>
